@@ -1,4 +1,3 @@
-
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -23,7 +22,6 @@ public class Fenetre extends JFrame
 {   
         private boolean next2 = false;
         private JButton next = new JButton("Next");
-        private JButton play = new JButton("Play");
         private JButton language = new JButton("Langue");
         private JButton quit = new JButton("Quit");
         private JButton high_scores = new JButton("High Scores");
@@ -32,15 +30,15 @@ public class Fenetre extends JFrame
         private JPanel contentButton = new JPanel();
         Thread timer = new Thread(new Runnable()
         {
-                public void run()
-                {
-                        inifinitLoop();
-                        
-                }
+        	public void run()
+            {
+        		inifinitLoop();
+            }
         });
         
         
-        public Fenetre() {
+        public Fenetre() 
+        {
 
         	
                 this.setTitle("Géotest");
@@ -54,69 +52,61 @@ public class Fenetre extends JFrame
                 monde.setLayout(new BorderLayout());
                 monde.add(contentButton,BorderLayout.SOUTH);
 
-                contentButton.add(play);
                 contentButton.add(next);
                 contentButton.add(high_scores);
                 contentButton.add(language);
                 contentButton.add(quit);
 
-      			 //Add action listener to play
-                next.addActionListener(new ActionListener(){
+
+                next.addActionListener(new ActionListener()
+                {      			 //Add action listener to play
 
                         public void actionPerformed(ActionEvent arg0) 
                         {
-           	                //Execute when button is pressed
-                            next2 = true;
+                            next2 = true;           	                //Execute when button is pressed
                                 
                         }
                         
                 });
                 
+    	        high_scores.addActionListener(new ActionListener() 
+    	        {			 //Add action listener to language
+    	       	 
+    	            public void actionPerformed(ActionEvent e)
+    	            {
+    	            	HighScores.HighScore();//Execute when button is pressed
+    	            }
+    	        }); 
+    	        
                 
 
-        		
-   			 //Add action listener to play
-   	        play.addActionListener(new ActionListener() {
-   	 
-   	            public void actionPerformed(ActionEvent e)
-   	            {
-   	                //Execute when button is pressed
-   	                
-   	            }
-   	        }); 
-   	        
-
-   			
-			 //Add action listener to language
-	        language.addActionListener(new ActionListener() {
+    	        language.addActionListener(new ActionListener() 
+    	        {			 //Add action listener to language
 	 
-	            public void actionPerformed(ActionEvent e)
-	            {
+    	        	public void actionPerformed(ActionEvent e)
+    	        	{
 	                //Execute when button is pressed
-	                
-	            }
-	        }); 
+	            
+    	        	}
+    	        }); 
 	        
-			// setting the button to receive action when Alt+F4 is pressed
-			InputMap keyMap = new ComponentInputMap(quit);
+			InputMap keyMap = new ComponentInputMap(quit);			// setting the button to receive action when Alt+F4 is pressed
 			keyMap.put(KeyStroke.getKeyStroke(KeyEvent.VK_ALT+KeyEvent.VK_F4, 0), "action");
 
 			ActionMap actionMap = new ActionMapUIResource();
 			actionMap.put("action", new Quit());
 			
 			SwingUtilities.replaceUIActionMap(quit, actionMap);
-			SwingUtilities.replaceUIInputMap(quit, JComponent.WHEN_IN_FOCUSED_WINDOW, keyMap);
-			// setting done
+			SwingUtilities.replaceUIInputMap(quit, JComponent.WHEN_IN_FOCUSED_WINDOW, keyMap);			// setting done
+
 			
 
 			
-			 //Add action listener to button_1
-	        quit.addActionListener(new ActionListener() {
+	        quit.addActionListener(new ActionListener() {			 //Add action listener to button_1
 	 
 	            public void actionPerformed(ActionEvent e)
 	            {
-	                //Execute when button is pressed
-	                System.exit(0);
+	                System.exit(0);	                //Execute when button is pressed
 	            }
 	        }); 
 	    
@@ -154,4 +144,5 @@ public class Fenetre extends JFrame
         new Fenetre();        
         
         }
+
 }

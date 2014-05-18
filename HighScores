@@ -6,12 +6,10 @@ import java.util.Scanner;
 
 public class HighScores {
 
-        private int xc;
-        private int yc;
-        private ArrayList<String> high_scores = new ArrayList();
-        private String HighScore;
+        private static ArrayList<String> high_scores = new ArrayList();
+        private static String HighScore;
         
-        public void HighScore() {
+        public static void HighScore() {
                 try 
                 {
                         Scanner s = new Scanner(new File("high_scores.txt")); //flux txt
@@ -71,5 +69,6 @@ public class HighScores {
                 System.out.println("The high score number" +a+ "is" + HighScore);
                 }
         }
+
 
 }

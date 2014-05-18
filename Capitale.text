@@ -1,0 +1,178 @@
+Continent/Pays/Capitale/X/Y
+Asie/Afghanistan/Kaboul/
+Asie/Azerbaidjan/Bakou/
+Asie/Bahreim/Manama/
+Asie/Bangladesh/Dacca/
+Asie/Bhoutan/Thimphou/
+Asie/Birmanie/Naypyidaw/
+Asie/Brunei/Bandar Seri Begawan/
+Asie/Cambodge/Phnom Penh/
+Asie/Chine/Pekin/
+Asie/Corée du Nord/Pyongyang/
+Asie/Corée du Sud/Seoul/
+Asie/Emirats Arabes Unis/Abou Dabi/
+Asie/Inde/New Delhi/
+Asie/Indonésie/Jakarta/
+Asie/Irak/Bagdad/
+Asie/Iran/Téhéran/
+Asie/Japon/Tokio/
+Asie/Jordanie/Amman/
+Asie/Kazakhstan/Astana/
+Asie/Kirghizstan/Bichkek/
+Asie/Koweit/Koweit city/
+Asie/Laos/Ventiane/
+Asie/Liban/Beyrouth/
+Asie/Mongolie/Oulan-Bator/
+Asie/Nepal/Katmandou/
+Asie/Oman/Mascate/
+Asie/Ouzbékistan/Tachkent/
+Asie/Pakistan/Islamabad/
+Asie/Palestine/Jerusalem/
+Asie/Phillippines/Manille/
+Asie/Qatar/Doha/
+Asie/Sri Lanka/Sri Jayawardenapura/
+Asie/Syrie/Damas/
+Asie/Tadjikistan/Douchanbé/
+Asie/Thaïlande/Bangkok/
+Asie/Timor Oriental/Dili/
+Asie/Turkménistan/Achgabat/
+Asie/Turquie/Ankara/
+Asie/Viêt Nam/Hanoï/
+Asie/Yemen/Sanaa/
+Amerique du nord/USA/Washington/
+Amerique du nord/Canada/Ottawa/
+Europe/Albanie/Tirana/
+Europe/Allemangne/Berlin/
+Europe/Andorre/Andorre-la-Vieille/
+Europe/Arménie/Erevan/
+Europe/Autriche/Vienne/
+Europe/Belgique/Bakou/
+Europe/Biélorussie/Minsk/
+Europe/Bosnie-Herzégovine/Sarajevo/
+Europe/Bulgarie/Sofia/
+Europe/Chypre/Nicosie/
+Europe/Croatie/Zagreb/
+Europe/Danemark/Copenhague/
+Europe/Espagne/Madrid/
+Europe/Estonie/Tallinn/
+Europe/Finland/Helsinki/907/144
+Europe/France/Paris/800/222
+Europe/Georgie/Tbilissi/1026/267
+Europe/Grèce/Athènes/
+Europe/Hongrie/Budapest/
+Europe/Irlande/Dublin/
+Europe/Island/Reykjavik/
+Europe/Italie/Rome/
+Europe/Lettonie/Riga/
+Europe/Liechtenstein/Vaduz/
+Europe/Lituanie/Vilnius/
+Europe/Luxembourg/Luxembourg/
+Europe/Macedoine/Skopje/
+Europe/Malte/La Valette/
+Europe/Moldavie/Chisinau/
+Europe/Monaco/Monaco/
+Europe/Monténégro/Podgorica/
+Europe/Norveige/Oslo/
+Europe/Pays-Bas/Amsterdam/
+Europe/Pologne/Varsovie/
+Europe/Portugal/Lisbonne/
+Europe/Roumanie/Bucarest/
+Europe/Royaume-Uni/Londres/
+Europe/Russie/Moscou/
+Europe/Saint-Marin/Saint-Marin/
+Europe/Serbie/Belgrade/
+Europe/Slovaquie/Bratislava/
+Europe/Slovénie/Ljubljana/
+Europe/Suisse/Berne/
+Europe/Sudède/Stockholm/
+Europe/Republique tchèque/Prague/
+Europe/Ukraine/Kiev/
+Europe/Vatican/Vatican/
+Amérique du Sud/Argentine/Buenos Aires/
+Amérique du Sud/Bahamas/Nassau/
+Amérique du Sud/Barbade/Bridgetown/
+Amérique du Sud/Belize/Belmopa/
+Amérique du Sud/Bolivie/La Paz/
+Amérique du Sud/Brésil/Brasilia/
+Amérique du Sud/Chili/Santiago
+Amérique du Sud/Colombie/Bogota/
+Amérique du Sud/Costa Rica/San José/
+Amérique du Sud/Cuba/La Havane
+Amérique du Sud/Équateur/Quito/
+Amérique du Sud/Guatemala/Guatemala/
+Amérique du Sud/Guyana/Georgetown/
+Amérique du Sud/Haïti/Port-au-Prince/
+Amérique du Sud/Honduras/Tegucigalpa/
+Amérique du Sud/Jamaïque/Kingston/
+Amérique du Sud/Nicaragua/Managua/
+Amérique du Sud/Panama/Panama/
+Amérique du Sud/Paraguay/Asunción/
+Amérique du Sud/Pérou/Lima/
+Amérique du Sud/République dominicaine/Saint-Domingue/
+Amérique du Sud/Salvador/San Salvador/
+Amérique du Sud/Suriname/Paramaribo/
+Amérique du Sud/Trinité-et-Tobago/Port of Spain/
+Amérique du Sud/Uruguay/Montevideo/
+Amérique du Sud/Venezuela/Caracas/
+Afrique/Afrique du Sud/Pretoria/
+Afrique/Algérie/Alger/
+Afrique/Angola/Luanda/
+Afrique/Bénin/Porto-Novo/
+Afrique/Botswana/Gaborone/
+Afrique/Burkina/Ouagadougou/
+Afrique/Burundi/Bujumbura/
+Afrique/Cameroun/Yaoundé/
+Afrique/Cap-Vert/Praia/
+Afrique/Centrafrique/Bangui/
+Afrique/Comores/Moroni/
+Afrique/Congo-Brazaville/Brazzaville/
+Afrique/Congo-Kinshasa/Kinshasa/
+Afrique/Côte d'Ivoire/Yamoussoukro/
+Afrique/Djibouti/Djibouti/
+Afrique/Égypte/Le Caire/
+Afrique/Érythrée/Asmara/
+Afrique/Éthiopie/Addis Abeba/
+Afrique/Gabon/Libreville/
+Afrique/Gambie/Banjul/
+Afrique/Ghana/Accra/
+Afrique/Guinée/Conakry/
+Afrique/Guinée équatoriale/Malabo/
+Afrique/Guinée-Bissau/Bissau/
+Afrique/Kenya/Nairobi/
+Afrique/Lesotho/Maseru/
+Afrique/Libéria/Monrovia/
+Afrique/Libye/Tripoli/
+Afrique/Madagascar/Antananarivo/
+Afrique/Malawi/Lilongwe/
+Afrique/Mali/Bamako/
+Afrique/Maroc/Rabat/
+Afrique/Maurice/Port Louis/
+Afrique/Mauritanie/Nouakchott/
+Afrique/Mozambique/Maputo/
+Afrique/Namibie/Windhoek/
+Afrique/Niger/Niamey/
+Afrique/Nigéria/Abuja/
+Afrique/Ouganda/Kampala/
+Afrique/Rwanda/Kigali/
+Afrique/Sao Tomé-et-Principe/Sao Tomé/
+Afrique/Sénégal/Dakar/
+Afrique/Seychelles/Victoria/
+Afrique/Sierra Leone/Freetown/
+Afrique/Somalie/Muqdisho/
+Afrique/Soudan/Khartoum/
+Afrique/Swaziland/Mbabane/
+Afrique/Tanzanie/Dar es Salam/
+Afrique/Tchad/Ndjamena/
+Afrique/Togo/Lomé/
+Afrique/Tunisie/Tunis/
+Afrique/Zambie/Lusaka/
+Afrique/Zimbabwe/Harare/
+Océanie/Australie/Camberra/
+Océanie/Fidji/Suva/
+Océanie/Indonésie/Jakarta/
+Océanie/Nouvelle-Zélande/Wellington/
+Océanie/Papouasie-Nouvelle-Guinée/Port Moresby/
+Océanie/Samoa/Apia/
+Océanie/Tonga/Nuku'alofa/
+Océanie/Tuvalu/Funafuti/
+Océanie/Vanuatu/Port-Vila/
